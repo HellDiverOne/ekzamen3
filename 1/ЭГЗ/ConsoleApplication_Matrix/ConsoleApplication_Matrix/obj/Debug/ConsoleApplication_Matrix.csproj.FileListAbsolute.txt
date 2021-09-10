@@ -1,0 +1,20 @@
+C:\Users\Snisarenko.IS\Desktop\Prof\ConsoleApplication_Matrix\ConsoleApplication_Matrix\bin\Debug\ConsoleApplication_Matrix.exe.config
+C:\Users\Snisarenko.IS\Desktop\Prof\ConsoleApplication_Matrix\ConsoleApplication_Matrix\bin\Debug\ConsoleApplication_Matrix.exe
+C:\Users\Snisarenko.IS\Desktop\Prof\ConsoleApplication_Matrix\ConsoleApplication_Matrix\bin\Debug\ConsoleApplication_Matrix.pdb
+C:\Users\Snisarenko.IS\Desktop\Prof\ConsoleApplication_Matrix\ConsoleApplication_Matrix\obj\Debug\ConsoleApplication_Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Snisarenko.IS\Desktop\Prof\ConsoleApplication_Matrix\ConsoleApplication_Matrix\obj\Debug\ConsoleApplication_Matrix.exe
+C:\Users\Snisarenko.IS\Desktop\Prof\ConsoleApplication_Matrix\ConsoleApplication_Matrix\obj\Debug\ConsoleApplication_Matrix.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\ЭГЗ\ConsoleApplication_Matrix\ConsoleApplication_Matrix\bin\Debug\ConsoleApplication_Matrix.exe.config
+C:\Users\sasha\OneDrive\Рабочий стол\ЭГЗ\ConsoleApplication_Matrix\ConsoleApplication_Matrix\bin\Debug\ConsoleApplication_Matrix.exe
+C:\Users\sasha\OneDrive\Рабочий стол\ЭГЗ\ConsoleApplication_Matrix\ConsoleApplication_Matrix\bin\Debug\ConsoleApplication_Matrix.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\ЭГЗ\ConsoleApplication_Matrix\ConsoleApplication_Matrix\obj\Debug\ConsoleApplication_Matrix.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\ЭГЗ\ConsoleApplication_Matrix\ConsoleApplication_Matrix\obj\Debug\ConsoleApplication_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\ЭГЗ\ConsoleApplication_Matrix\ConsoleApplication_Matrix\obj\Debug\ConsoleApplication_Matrix.exe
+C:\Users\sasha\OneDrive\Рабочий стол\ЭГЗ\ConsoleApplication_Matrix\ConsoleApplication_Matrix\obj\Debug\ConsoleApplication_Matrix.pdb
+\\main\RDP\44П\ГоршенинАА\Desktop\пере\1\ЭГЗ\ConsoleApplication_Matrix\ConsoleApplication_Matrix\bin\Debug\ConsoleApplication_Matrix.exe.config
+\\main\RDP\44П\ГоршенинАА\Desktop\пере\1\ЭГЗ\ConsoleApplication_Matrix\ConsoleApplication_Matrix\bin\Debug\ConsoleApplication_Matrix.exe
+\\main\RDP\44П\ГоршенинАА\Desktop\пере\1\ЭГЗ\ConsoleApplication_Matrix\ConsoleApplication_Matrix\bin\Debug\ConsoleApplication_Matrix.pdb
+\\main\RDP\44П\ГоршенинАА\Desktop\пере\1\ЭГЗ\ConsoleApplication_Matrix\ConsoleApplication_Matrix\obj\Debug\ConsoleApplication_Matrix.csproj.AssemblyReference.cache
+\\main\RDP\44П\ГоршенинАА\Desktop\пере\1\ЭГЗ\ConsoleApplication_Matrix\ConsoleApplication_Matrix\obj\Debug\ConsoleApplication_Matrix.csproj.CoreCompileInputs.cache
+\\main\RDP\44П\ГоршенинАА\Desktop\пере\1\ЭГЗ\ConsoleApplication_Matrix\ConsoleApplication_Matrix\obj\Debug\ConsoleApplication_Matrix.exe
+\\main\RDP\44П\ГоршенинАА\Desktop\пере\1\ЭГЗ\ConsoleApplication_Matrix\ConsoleApplication_Matrix\obj\Debug\ConsoleApplication_Matrix.pdb
